@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "M17G Home"
+title: "Welcome to Mephisto17Games"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
@@ -9,4 +9,3 @@ redirect_from:
   - /home/
 ---
 
-Welcome to Mephisto17Games
