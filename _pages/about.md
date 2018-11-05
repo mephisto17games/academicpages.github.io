@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<!---excerpt: "About me"--->
 
 
 Hey, I'm Enrico, PhD student at the Max-Planck Institute for Evolutionary Anthropology in Leipzig investigating the genetic history and profile of human populations in Vietnam.
