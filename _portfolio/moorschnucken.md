@@ -15,5 +15,6 @@ Revised version: soon at Google Play
 
 
 
-Privacy Policy:
-https://mephisto17games.github.io/moorschnucken-privacy/
+---
+
+[Privacy Policy](https://mephisto17games.github.io/moorschnucken-privacy/ "Privacy Policy")
