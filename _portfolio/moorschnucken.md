@@ -11,3 +11,9 @@ GameJam version: Available now at itch.io (Android, MacOS, Windows)
 <iframe frameborder="0" src="https://itch.io/embed/316134" width="552" height="167"></iframe>
 
 Revised version: soon at Google Play
+
+
+
+
+Privacy Policy:
+https://mephisto17games.github.io/moorschnucken-privacy/
