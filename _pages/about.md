@@ -19,7 +19,7 @@ Check out our first two games. They developed for the MiniBeansJam3 2019 and the
 Gamejam version v1: Available now at itch.io (Android)
 
 <iframe frameborder="0" src="https://itch.io/embed/374648" width="552" height="167"></iframe>
-Post jam version including some fixes and cosmetic adjustmens (Android)
+Post jam version: includes some fixes and cosmetic adjustmens
 
 
 ## Moorschnucken - Das Schweigen Dilämma
