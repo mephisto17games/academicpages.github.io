@@ -9,9 +9,22 @@ redirect_from:
   - /home/
 ---
 
-Check out our first game. It was developed  for the BeansJam Mobile 2018, an 48h GameJam targetting Android games.
 
-GameJam version: Available now at itch.io (Android, MacOS, Windows)
+
+
+
+Check out our first two games. They developed for the MiniBeansJam3 2019 and the BeansJam Mobile 2018. Each game was created within 48h. Updated versions will be made available later.
+
+## Wildcard Willies *
+gamejam version v1: Available now at itch.io (Android)
+and post jam version with some fixes and cosmetic adjustmens (Android)
+
+<iframe frameborder="0" src="https://itch.io/embed/374648" width="552" height="167"></iframe>
+
+
+
+## Moorschnucken - Das Schweigen Dilämma
+gamejam version: Available now at itch.io (Android, MacOS, Windows)
 
 <iframe frameborder="0" src="https://itch.io/embed/316134" width="552" height="167"></iframe>
 Revised version: soon at Google Play
