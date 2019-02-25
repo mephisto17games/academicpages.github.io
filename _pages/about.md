@@ -16,11 +16,10 @@ redirect_from:
 Check out our first two games. They developed for the MiniBeansJam3 2019 and the BeansJam Mobile 2018. Each game was created within 48h. Updated versions will be made available later.
 
 ## Wildcard Willies *
-gamejam version v1: Available now at itch.io (Android)
-and post jam version with some fixes and cosmetic adjustmens (Android)
+Gamejam version v1: Available now at itch.io (Android)
 
 <iframe frameborder="0" src="https://itch.io/embed/374648" width="552" height="167"></iframe>
-
+Post jam version including some fixes and cosmetic adjustmens (Android)
 
 
 ## Moorschnucken - Das Schweigen Dilämma
