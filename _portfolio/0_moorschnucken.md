@@ -4,7 +4,7 @@ excerpt: "Soon on Google Play. Initally developed in 48h for BeansJam Mobile 201
 collection: gamedev
 ---
 
-This is the first game made by Mephisto17Games. It was developed by me and Oliver Scheer for the BeansJam Mobile, an 48h GameJam targetting Android games. 
+This is the first game made by Mephisto17Games. It was developed by Enrico Macholdt and Oliver Scheer for the BeansJam Mobile, an 48h GameJam targetting Android games. 
 
 GameJam version: Available now at itch.io (Android, MacOS, Windows)
 
